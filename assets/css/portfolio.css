@@ -35,6 +35,22 @@ body {
     background-image: url(../images/tealwood.png);
 }
 
+.home-screen-header-text {
+    font-family: 'Annie Use Your Telescope', cursive;
+    color: #ffffff;
+    font-size: 10vh;
+}
+
+.katie-deangelis-text {
+    color: #EB0C9F;
+}
+
+.home-screen-byline-text {
+    font-family: 'Annie Use Your Telescope', cursive;
+    color: #ffffff;
+    font-size: 5vh;
+}
+
 .contact-main {
     background-image: url(../images/graffiti.png);
 }
