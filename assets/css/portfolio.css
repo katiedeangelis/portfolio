@@ -12,6 +12,10 @@ body {
     height: 100vh;
 }
 
+.home-screen-header {
+    margin-top: 25vh;
+}
+
 .nav-view {
     height: 10vh;
 }
@@ -27,12 +31,30 @@ body {
 }
 
 .navbar-main {
-    background-color: #2E8282;
+    background-color: #8DBAB5;
     color: #ffffff;
 }
 
 .home-main {
     background-image: url(../images/tealwood.png);
+}
+
+.home-screen-header-text {
+    font-family: 'Annie Use Your Telescope', cursive;
+    color: #ffffff;
+    font-size: 10vh;
+    text-shadow: 0px 0px 1px white;
+}
+
+.katie-deangelis-text {
+    color: #EB0C9F;
+    text-shadow: 0px 0px 1px white;
+}
+
+.home-screen-byline-text {
+    font-family: 'Annie Use Your Telescope', cursive;
+    color: #ffffff;
+    font-size: 5vh;
 }
 
 .contact-main {
