@@ -32,6 +32,7 @@ body {
 
 .navbar-main {
     background-color: #8DBAB5;
+    font-family: 'Annie Use Your Telescope', cursive;
     color: #ffffff;
 }
 
@@ -42,19 +43,21 @@ body {
 .home-screen-header-text {
     font-family: 'Annie Use Your Telescope', cursive;
     color: #ffffff;
-    font-size: 10vh;
+    font-size: 6vw;
     text-shadow: 0px 0px 1px white;
+    transition: 3s;    
 }
 
 .katie-deangelis-text {
     color: #EB0C9F;
-    text-shadow: 0px 0px 1px white;
+    text-shadow: 0px 0px 1px white;    
 }
 
 .home-screen-byline-text {
     font-family: 'Annie Use Your Telescope', cursive;
     color: #ffffff;
-    font-size: 5vh;
+    font-size: 2vw;
+    transition: 3s;    
 }
 
 .contact-main {
